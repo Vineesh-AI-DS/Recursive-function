@@ -59,5 +59,7 @@ namespace Recursive
 
 ## Output:
 
+![out](https://github.com/Vineesh-AI-DS/Recursive-function/assets/93427254/47136eb7-69c5-483a-9994-58b5f277a7a6)
+
 ## Result:
 Thus the C# program to reverse a number using recursive function is executed successfully.
